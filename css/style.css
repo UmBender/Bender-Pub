@@ -1,0 +1,29 @@
+.header-title{
+    background-color: rgb(135, 100, 69);
+}
+
+.main-heading{
+    text-align: center;
+    color: rgb(202, 150, 92);
+    font-size: 3em;
+
+}
+h1 a{
+
+    color: rgb(202, 150, 92);
+    transition: 1s;
+    text-decoration:none;
+}
+h1 a:hover{
+    color: rgb(244, 223, 186);
+}
+.caixa{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 4em;
+}
+li{
+    display:inline;
+    margin: 0 15px 0 15px;
+}
